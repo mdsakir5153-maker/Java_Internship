@@ -1,0 +1,21 @@
+==========================================
+     JAVA ENVIRONMENT HEALTH REPORT
+==========================================
+Generated on: 06-01-2026 at 20:31:07.11
+
+ 
+[CHECK 1] Java Runtime (java.exe) 
+   STATUS: FOUND 
+   DETAILS: 
+java version "25.0.1" 2025-12-22 LTS
+Java(TM) SE Runtime Environment (build 25.0.1+8-LTS-27)
+Java HotSpot(TM) 64-Bit Server VM (build 25.0.1+8-LTS-27, mixed mode, sharing)
+ 
+[CHECK 2] Java Compiler (javac.exe) 
+   STATUS: FOUND 
+   DETAILS: 
+javac 25.0.1
+ 
+[CHECK 3] JAVA_HOME Variable 
+   STATUS: SET 
+   DETAILS: C:\Program Files\Java\jdk-25.0.1
